@@ -15,3 +15,5 @@ function isPrime(n) {
 console.log(isPrime(0)) // false
 console.log(isPrime(4)) // false
 console.log(isPrime(5)) // true
+
+// Big-O = O(n)
